@@ -1,9 +1,10 @@
 import React from 'react'
 
 export default function page() {
+  console.log(name)
   return (
     <div>
-      dashboardsfsdfsdfsdfsdfsdf
+      Catagories page
     </div>
   )
 }
